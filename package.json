@@ -1,0 +1,15 @@
+{
+	"name": "elitech-reader",
+	"version": "1.0.0",
+	"main": "./lib/elitech.js",
+	"dependencies": {
+		"jspack": "0.0.4",
+		"node-getopt": "0.2.3",
+		"promise-map-series": "0.2.2",
+		"serialport": "2.0.5",
+		"sleep": "3.0.0"
+	},
+	"bin": {
+		"elitech-reader": "./lib/cli.js"
+	}
+}
