@@ -2,7 +2,7 @@
 	"name": "elitech-reader",
 	"description": "This library allows nodejs to connect to Elitech RC-4 data logger.",
 	"keywords": ["elitech","RC4","RC-4","data logger", "datalogger", "temperature", "sensor"],
-	"version": "1.1.0",
+	"version": "1.1.1",
 	"main": "./lib/elitech.js",
 	"license":"ISC",
 	"bugs": { "url" : "https://github.com/sidneibasei/elitech-reader/issues" },
