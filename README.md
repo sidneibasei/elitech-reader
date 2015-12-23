@@ -1,7 +1,7 @@
 # elitech-reader (1.1.x)
 Elitech Reader is a nodejs module which allows acquire data from Elitec RC-4 temperature sensor data logger.
 
-#Adding it to your project
+# Adding it to your project
 In your project home and with [npm](https://npmjs.org), do:
 
 ```
@@ -38,14 +38,14 @@ Elitech Reader provides a function to list all serial ports available on operati
 ```
 
 
-#Get the code
+# Get the code
 Please feel free to get our code and improve it. You are welcome to be a contributor. Contact us!
 ```
 git clone https://github.com/sidneibasei/elitech-reader.git
 ```
 
-#Sample application
+# Sample application
 You can also get our sample application nodejs-collector here: [npm module](https://www.npmjs.com/package/nodejs-collector) or [git](https://github.com/john-orr/collector).
 
-#Finally
+# Finally
 Cheers
